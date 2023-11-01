@@ -1,3 +1,2 @@
-# java-projects 
-** Coding Factory **
+# java-projects - Coding Factory Bootcamp Practice
 ** Object-Oriented Programming ** 
